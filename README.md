@@ -6,6 +6,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khushilorish/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/khushilorish/LeetCode/tree/master/0054-spiral-matrix) |
+| [1672-richest-customer-wealth](https://github.com/khushilorish/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/khushilorish/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/khushilorish/LeetCode/tree/master/0054-spiral-matrix) |
+| [1672-richest-customer-wealth](https://github.com/khushilorish/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
