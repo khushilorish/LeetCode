@@ -10,6 +10,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushilorish/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushilorish/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/khushilorish/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/khushilorish/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/khushilorish/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/khushilorish/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/khushilorish/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -21,6 +22,7 @@
 | [0069-sqrtx](https://github.com/khushilorish/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushilorish/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushilorish/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/khushilorish/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/khushilorish/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Matrix
 |  |
