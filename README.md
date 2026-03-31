@@ -33,6 +33,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khushilorish/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khushilorish/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/khushilorish/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/khushilorish/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Matrix
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/khushilorish/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/khushilorish/LeetCode/tree/master/0069-sqrtx) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/khushilorish/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -76,4 +78,8 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/khushilorish/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/khushilorish/LeetCode/tree/master/0058-length-of-last-word) |
+## Greedy
+|  |
+| ------- |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/khushilorish/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 <!---LeetCode Topics End-->
