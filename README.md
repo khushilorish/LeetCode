@@ -30,6 +30,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushilorish/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushilorish/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/khushilorish/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0754-reach-a-number](https://github.com/khushilorish/LeetCode/tree/master/0754-reach-a-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushilorish/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/khushilorish/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khushilorish/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/khushilorish/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/khushilorish/LeetCode/tree/master/0069-sqrtx) |
+| [0754-reach-a-number](https://github.com/khushilorish/LeetCode/tree/master/0754-reach-a-number) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/khushilorish/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Prefix Sum
 |  |
