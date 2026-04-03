@@ -10,6 +10,7 @@
 | [0054-spiral-matrix](https://github.com/khushilorish/LeetCode/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushilorish/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushilorish/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/khushilorish/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/khushilorish/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/khushilorish/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushilorish/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/khushilorish/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/khushilorish/LeetCode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
