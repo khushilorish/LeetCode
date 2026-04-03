@@ -55,6 +55,7 @@
 | [0013-roman-to-integer](https://github.com/khushilorish/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/khushilorish/LeetCode/tree/master/0069-sqrtx) |
 | [0754-reach-a-number](https://github.com/khushilorish/LeetCode/tree/master/0754-reach-a-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/khushilorish/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/khushilorish/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Prefix Sum
 |  |
