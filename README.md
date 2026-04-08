@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/khushilorish/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khushilorish/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/khushilorish/LeetCode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/khushilorish/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushilorish/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushilorish/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/khushilorish/LeetCode/tree/master/0198-house-robber) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/khushilorish/LeetCode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/khushilorish/LeetCode/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/khushilorish/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushilorish/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/khushilorish/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/khushilorish/LeetCode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/khushilorish/LeetCode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/khushilorish/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
