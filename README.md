@@ -90,6 +90,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/khushilorish/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/khushilorish/LeetCode/tree/master/0058-length-of-last-word) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/khushilorish/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0018-4sum](https://github.com/khushilorish/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/khushilorish/LeetCode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/khushilorish/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/khushilorish/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
