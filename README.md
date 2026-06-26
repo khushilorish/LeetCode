@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/khushilorish/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/khushilorish/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushilorish/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/khushilorish/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushilorish/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/khushilorish/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/khushilorish/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/khushilorish/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/khushilorish/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/khushilorish/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
