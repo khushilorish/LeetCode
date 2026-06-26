@@ -51,11 +51,13 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/khushilorish/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/khushilorish/LeetCode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/khushilorish/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/khushilorish/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/khushilorish/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/khushilorish/LeetCode/tree/master/0069-sqrtx) |
 | [0754-reach-a-number](https://github.com/khushilorish/LeetCode/tree/master/0754-reach-a-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/khushilorish/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -90,6 +92,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/khushilorish/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/khushilorish/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/khushilorish/LeetCode/tree/master/0067-add-binary) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/khushilorish/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
 ## Greedy
 |  |
@@ -105,6 +108,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/khushilorish/LeetCode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/khushilorish/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
