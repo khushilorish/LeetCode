@@ -111,9 +111,14 @@
 | ------- |
 | [0067-add-binary](https://github.com/khushilorish/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/khushilorish/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/khushilorish/LeetCode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/khushilorish/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/khushilorish/LeetCode/tree/master/0198-house-robber) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/khushilorish/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
