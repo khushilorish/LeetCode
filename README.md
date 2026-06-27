@@ -112,6 +112,7 @@
 | [0067-add-binary](https://github.com/khushilorish/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/khushilorish/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/khushilorish/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/khushilorish/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/khushilorish/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
@@ -121,4 +122,5 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/khushilorish/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/khushilorish/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
