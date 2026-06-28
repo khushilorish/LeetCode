@@ -16,6 +16,7 @@
 | [0198-house-robber](https://github.com/khushilorish/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/khushilorish/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/khushilorish/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/khushilorish/LeetCode/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushilorish/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/khushilorish/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khushilorish/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0018-4sum](https://github.com/khushilorish/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/khushilorish/LeetCode/tree/master/0075-sort-colors) |
+| [0645-set-mismatch](https://github.com/khushilorish/LeetCode/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/khushilorish/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushilorish/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/khushilorish/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -81,6 +83,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/khushilorish/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/khushilorish/LeetCode/tree/master/0041-first-missing-positive) |
+| [0645-set-mismatch](https://github.com/khushilorish/LeetCode/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/khushilorish/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushilorish/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -117,6 +120,7 @@
 | [0338-counting-bits](https://github.com/khushilorish/LeetCode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/khushilorish/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/khushilorish/LeetCode/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/khushilorish/LeetCode/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
 | ------- |
