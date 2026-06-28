@@ -116,6 +116,7 @@
 | [0287-find-the-duplicate-number](https://github.com/khushilorish/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/khushilorish/LeetCode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/khushilorish/LeetCode/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/khushilorish/LeetCode/tree/master/0476-number-complement) |
 ## Dynamic Programming
 |  |
 | ------- |
