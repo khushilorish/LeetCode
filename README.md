@@ -62,6 +62,7 @@
 | [0067-add-binary](https://github.com/khushilorish/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/khushilorish/LeetCode/tree/master/0069-sqrtx) |
 | [0754-reach-a-number](https://github.com/khushilorish/LeetCode/tree/master/0754-reach-a-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/khushilorish/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/khushilorish/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/khushilorish/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Prefix Sum
@@ -122,6 +123,7 @@
 | [0476-number-complement](https://github.com/khushilorish/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/khushilorish/LeetCode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/khushilorish/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/khushilorish/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Dynamic Programming
 |  |
 | ------- |
