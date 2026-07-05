@@ -10,6 +10,7 @@
 | [0041-first-missing-positive](https://github.com/khushilorish/LeetCode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/khushilorish/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/khushilorish/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/khushilorish/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushilorish/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/khushilorish/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushilorish/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/khushilorish/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/khushilorish/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/khushilorish/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/khushilorish/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/khushilorish/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -134,4 +136,8 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/khushilorish/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/khushilorish/LeetCode/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/khushilorish/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
