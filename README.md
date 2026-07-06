@@ -102,6 +102,7 @@
 | [0058-length-of-last-word](https://github.com/khushilorish/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/khushilorish/LeetCode/tree/master/0067-add-binary) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/khushilorish/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [2000-reverse-prefix-of-word](https://github.com/khushilorish/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0075-sort-colors](https://github.com/khushilorish/LeetCode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/khushilorish/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/khushilorish/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [2000-reverse-prefix-of-word](https://github.com/khushilorish/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -147,4 +149,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushilorish/LeetCode/tree/master/0020-valid-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/khushilorish/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
