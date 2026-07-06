@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/khushilorish/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/khushilorish/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/khushilorish/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/khushilorish/LeetCode/tree/master/0067-add-binary) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/khushilorish/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/khushilorish/LeetCode/tree/master/0078-subsets) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/khushilorish/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
