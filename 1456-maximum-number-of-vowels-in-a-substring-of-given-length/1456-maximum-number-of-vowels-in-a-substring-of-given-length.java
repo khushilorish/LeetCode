@@ -1,26 +1,36 @@
 class Solution {
-    public int maxVowels(String s, int k) {
-        int start=0, vowels=0;
-        int maxVowels = 0;
-        for(int end =0; end<s.length(); end++){
-            if(isValid(s.charAt(end))){
-                vowels += 1;
-            }
-            if(end>= k-1){
-                maxVowels = Math.max(maxVowels, vowels);
-                if(isValid(s.charAt(start))){
-                    vowels -= 1;
-                }
-                start += 1;
-            }
+    static {
+        for (int i = 0; i < 1000; i++) {
+            maxVowels("b", 0);
         }
-        return maxVowels;
     }
+    public static int maxVowels(String s, int k) {
+       int max = 0;
+        char[] chars = s.toCharArray();
 
-    private boolean isValid(char c){
-        if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u'){
-            return true;
+        int[] ch = new int[128];
+        ch['a']++;
+        ch['e']++;
+        ch['i']++;
+        ch['o']++;
+        ch['u']++;
+
+        for (int i = 0; i < k; i++) {
+            if (ch[chars[i]] == 1) {
+                max++;
+            }
         }
-        return false;
+
+        int temp = max;
+
+        for (int i = k; i < chars.length; i++) {
+            temp += ch[chars[i]];
+            temp -= ch[chars[i - k]];
+
+            if (max < temp) {
+                max = temp;
+            }
+        }
+        return max;
     }
 }
