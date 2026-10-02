@@ -26,6 +26,7 @@
 | [0875-koko-eating-bananas](https://github.com/khushilorish/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khushilorish/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1122-relative-sort-array](https://github.com/khushilorish/LeetCode/tree/master/1122-relative-sort-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/khushilorish/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/khushilorish/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushilorish/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/khushilorish/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -179,6 +180,7 @@
 | [0187-repeated-dna-sequences](https://github.com/khushilorish/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushilorish/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/khushilorish/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/khushilorish/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushilorish/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/khushilorish/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Rolling Hash
