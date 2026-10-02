@@ -32,6 +32,7 @@
 | [1672-richest-customer-wealth](https://github.com/khushilorish/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1898-maximum-number-of-removable-characters](https://github.com/khushilorish/LeetCode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1929-concatenation-of-array](https://github.com/khushilorish/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/khushilorish/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0645-set-mismatch](https://github.com/khushilorish/LeetCode/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/khushilorish/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushilorish/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/khushilorish/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Counting Sort
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/khushilorish/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushilorish/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/khushilorish/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Rolling Hash
 |  |
 | ------- |
